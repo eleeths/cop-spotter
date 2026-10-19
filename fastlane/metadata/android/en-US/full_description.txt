@@ -1,0 +1,15 @@
+Police equipment talks. Bodycams, TASERs and camera systems constantly broadcast Bluetooth and Wi-Fi signals so their docks and cars can find them. Cop Spotter listens for those signatures — and for hidden trackers and card skimmers too.
+
+Your phone's own radios run a database of 103 verified hardware fingerprints:
+
+• POLICE GEAR (84) — Axon body cameras and vehicle systems, TASER devices, Flock camera accessories, police radio gear, in-car video systems, police drones and Remote ID broadcasts, ambulance monitors, patrol-car routers and fleet telematics. A contact strobes red/blue with a beep and vibration.
+• HIDDEN TRACKERS (10) — AirTags, SmartTags, Tiles and similar tags. Alerted in purple, close-range only, and the pulse quickens as you get closer so you can walk one down.
+• CARD SKIMMERS (9) — the cheap Bluetooth serial modules skimmers hide inside pumps and card readers use to phone home. Alerted in amber, close-range only — before your card goes in.
+
+DISCREET mode darkens the display while the watch keeps running and logging, and the setting persists between launches.
+
+RECEIVE-ONLY, BY DESIGN. Cop Spotter listens to public broadcast advertisements that devices intentionally transmit for discovery. It does not intercept, decrypt, record, or interfere with any communication, and it transmits nothing.
+
+THE HONEST PART. Bluetooth carries a room or two, through a wall if you're lucky — Cop Spotter knows gear is close, it can't point down the block. Gear advertises in bursts to save battery, so a quiet device can be missed. This is an awareness tool, not a safety device. Rules around detection equipment vary by place; the responsibility for where and how you use it is yours.
+
+Free and open source (MIT). No account, no subscription, no ads, no tracking. If it earns its keep, you can support the project from inside the app or at eleeth.com — the same signature engine also runs on a pocket hardware unit sold there.
