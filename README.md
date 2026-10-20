@@ -29,8 +29,6 @@ itself.
 - **START WATCH** begins the patrol. Contacts appear in real time — a contact
   shows only while it has been heard in the last few seconds, then the panel
   returns to CLEAR.
-- **DISCREET** darkens the display (and persists between launches) while the
-  watch keeps running and logging.
 - Police alerts gate at −80 dBm; trackers and skimmers gate at −70 dBm, so the
   quiet classes only fire when the device is genuinely close.
 
