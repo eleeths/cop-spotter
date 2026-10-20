@@ -6,8 +6,6 @@ Your phone's own radios run a database of 103 verified hardware fingerprints:
 • HIDDEN TRACKERS (10) — AirTags, SmartTags, Tiles and similar tags. Alerted in purple, close-range only, and the pulse quickens as you get closer so you can walk one down.
 • CARD SKIMMERS (9) — the cheap Bluetooth serial modules skimmers hide inside pumps and card readers use to phone home. Alerted in amber, close-range only — before your card goes in.
 
-DISCREET mode darkens the display while the watch keeps running and logging, and the setting persists between launches.
-
 RECEIVE-ONLY, BY DESIGN. Cop Spotter listens to public broadcast advertisements that devices intentionally transmit for discovery. It does not intercept, decrypt, record, or interfere with any communication, and it transmits nothing.
 
 THE HONEST PART. Bluetooth carries a room or two, through a wall if you're lucky — Cop Spotter knows gear is close, it can't point down the block. Gear advertises in bursts to save battery, so a quiet device can be missed. This is an awareness tool, not a safety device. Rules around detection equipment vary by place; the responsibility for where and how you use it is yours.
